@@ -4,5 +4,5 @@ setup(
     name="YourAppName",
     version="1.0",
     description="Description of your app",
-    executables=[Executable("user_haxc.py")]
+    executables=[Executable("user_haxc.py")],
 )
