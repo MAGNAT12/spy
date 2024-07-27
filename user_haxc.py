@@ -1,6 +1,6 @@
 import telebot
 import cv2
-from token_1 import *
+from ton import *
 import time
 import os
 file_path = 'output.avi'
